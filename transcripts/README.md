@@ -1,3 +1,1 @@
-** Link to claude web chat: **
-
-## https://claude.ai/share/fe00169b-abc8-406b-960f-768718fd9194
+**Link to claude web chat:** https://claude.ai/share/fe00169b-abc8-406b-960f-768718fd9194
